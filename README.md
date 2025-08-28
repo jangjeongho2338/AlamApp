@@ -44,4 +44,3 @@
 
 ![일정검색](https://github.com/user-attachments/assets/5ae40f3d-9a2d-455b-ba7b-e718770214c3)
 
-9. 일정 백업 (추가)
